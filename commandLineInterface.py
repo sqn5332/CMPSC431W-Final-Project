@@ -1,5 +1,4 @@
 import psycopg2
-trans = 0
 
 # Connect to local PostgreSQL database
 def connect():
